@@ -35,6 +35,7 @@ brew install peco
 brew cask install google-chrome
 brew cask install google-japanese-ime
 brew cask install docker
+brew cask install virtualbox
 brew cask install slack
 brew cask install iterm2
 brew cask install visual-studio-code
