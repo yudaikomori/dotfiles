@@ -1,0 +1,10 @@
+[user]
+	name = yudaikomori
+        email = yudai_komori@voyagegroup.com
+[color]
+        diff = always
+        diff-highlight = always
+[core]
+	excludesfile = /Users/y-komori/.gitignore
+[ghq]
+	root = /User/y-komori/src
