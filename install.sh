@@ -40,6 +40,9 @@ brew cask install slack
 brew cask install iterm2
 brew cask install visual-studio-code
 brew cask install jetbrains-toolbox
+brew cask install sublime-text
+brew cask install phpstorm
+brew cask install rubymine
 
 ln -snf ~/dotfiles/files/.config ~/.config
 ln -snf ~/dotfiles/files/.editorconfig ~/.editorconfig
