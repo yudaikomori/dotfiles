@@ -31,6 +31,8 @@ brew install jq
 brew install nkf
 brew install ghq
 brew install peco
+brew install docker
+brew install docker-compose
 
 brew cask install google-chrome
 brew cask install google-japanese-ime
